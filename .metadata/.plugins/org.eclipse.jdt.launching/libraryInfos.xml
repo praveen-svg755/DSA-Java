@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+    <libraryInfo home="C:\Users\ASUS\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.7.v20250502-0916" version="21.0.7">
+        <bootpath>
+            <entry path="null"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="null"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="null"/>
+        </endorsedDirs>
+    </libraryInfo>
+    <libraryInfo home="C:\Users\ASUS\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.7.v20250502-0916\jre" version="21.0.7"/>
+    <libraryInfo home="C:\Program Files (x86)\Java\j2re1.4.0" version="1.4.0">
+        <bootpath>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\lib\rt.jar"/>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\lib\i18n.jar"/>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\lib\sunrsasign.jar"/>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\lib\jsse.jar"/>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\lib\jce.jar"/>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\lib\charsets.jar"/>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\classes"/>
+        </bootpath>
+        <extensionDirs>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\lib\ext"/>
+        </extensionDirs>
+        <endorsedDirs>
+            <entry path="C:\Program Files (x86)\Java\j2re1.4.0\lib\endorsed"/>
+        </endorsedDirs>
+    </libraryInfo>
+</libraryInfos>
